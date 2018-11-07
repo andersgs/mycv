@@ -1,0 +1,175 @@
+---
+title: "CV"
+author: "Anders Gonçalves da Silva, PhD"
+editor_options:
+  chunk_output_type: console
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: /Users/andersgoncalves/Dropbox/projects/cv/templates/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontawesome: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+github: andersgs
+jobtitle: Bioinformatician | Microbiological Diagnostic Lab Public Health Laboratory
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+email: anders.goncalves@unimelb.edu.au
+address: Peter Doherty Institute for Immunity and Infection, The University of Melbourne
+twitter: '@drandersgs'
+updated: no
+urlcolor: blue
+---
+
+# Employment
+
+*Microbiological Diagnostic Unit Public Health Laboratory, The Univesity of Melbourne*
+
+Bioinformatician \hfill 2015-
+
+*Ornithology Lab, Monash University*
+
+Postdoctoral Researcher \hfill 2012-2015
+
+*CSIRO Marine and Atmospheric Research*
+
+Postdoctoral Fellow \hfill 2009-2012
+
+*Ecological and Conservation Genomics Lab, University of British Columbia*
+
+Postdoctoral Teaching and Research Fellow \hfill 2007-2009
+
+
+# Education
+
+*Columbia University*, PhD Ecology and Evolutionary Biology \hfill 2007
+
+*Columbia University*, MSc Ecology and Evolutionary Biology \hfill 2004
+
+*Columbia University*, MA Conservation Biology \hfill 2003
+
+*Universidade Estadual de Campinas*, BSc Biology \hfill 2000
+
+
+# Service and Leadership
+
+*Leadership* of the MDU PHL Bioinformatics Team.
+
+*Leadership* of the national CDGN Bioinformatics Working Group.
+
+*Leadership* of the MDU/DHHS Partnership Grant.
+
+*Leadership* in AusTrakka (data sharing for public health).
+
+*Leadership* in development of best practices for accreditation of Bioinformatics software for use in public health.
+
+*Leadership* in development of national proficiency testing programs for Next Generation Sequencing and Bioinformatics software.
+
+*Leadership* in development of a national pathogen surveillance platform based on genomic data.
+
+
+# Publications
+
+## Journal Articles
+
+```{r, echo=FALSE, results='asis'}
+library(RefManageR)
+library(glue)
+bib <- ReadBib("bibfiles/publications.bib")
+for(year in 2018:2008) {
+  print(glue("### {year}"))
+  print(bib[year = glue("{year}")],  .opts = list(bib.style = "authoryear"))
+  print(glue(" "))
+}
+```
+
+## Reports
+
+```{r, echo=FALSE, results="asis"}
+bib <- ReadBib("bibfiles/reports.bib")
+print(sort(bib, sorting = 'ydnt', decreasing = T), .opts = list(bib.style = "authortitle"))
+```
+
+## Book Chapters
+
+```{r, echo=FALSE, results="asis"}
+bib <- ReadBib("bibfiles/book-chapter.bib")
+print(sort(bib, sorting = 'ydnt', decreasing = T), .opts = list(bib.style = "authortitle"))
+```
+
+## Recent Conference Presentations
+```{r, echo=FALSE, results="asis"}
+bib <- ReadBib("bibfiles/conferences.bib")
+print(sort(bib, sorting = 'ydnt', decreasing = T), .opts = list(bib.style = "authortitle"))
+```
+
+# Students
+
+## PhD
+
+*Courtney Lane* --- Department of Microbiology and Immunology, The University of Melbourne
+
+*Andrew Buultjens* --- Department of Microbiology and Immunology, The University of Melbourne
+
+*Lee Peacock* --- School of Biological Sciences, Monash University
+
+## MSc
+
+*Alistair Edwards* --- Faculty of Science, The University of Melbourne *[Deferred]*
+
+*Andre Tan* --- Faculty of Science, The University of Melbourne [Completed]
+
+*Gabriela Pinho* --- Instituto Nacional de Pesquisas da Amazônia [Completed]
+
+## Honours
+
+*Tiffany Miller-Scott* --- School of Biological Sciences, Monash University [Completed]
+
+# Teaching
+
+## Workshops
+
+Genomic Epidemiology of Infectious Diseases. McGill Summer Institute in Infectious Diseases & Global Health \hfill 2018
+
+Genomic Epidemiology of Infectious Diseases. McGill Summer Institute in Infectious Diseases & Global Health \hfill 2017 
+
+Introductory Course in Public Health Microbial Genomics \hfill 2017
+
+Introductory Course in Public Health Microbial Genomics \hfill 2016
+
+Australian Pathogen Bioinformatics Symposium (ANU) \hfill 2014
+
+Population and landscape genomics workshop (ANU) \hfill 2014
+
+## Units
+
+BINF90002: Elements of Bioinformatics (Lecturer) - The University of Melbourne \hfill 2017
+
+BIOL 203: Introduction to Ecology (Instructor) – University of British Columbia \hfill 2009
+
+GEOG 213: Introduction to Environmental Issues (Instructor) – University of British Columbia \hfill 2008
+
+
+# Grants
+
+Gonçalves da Silva A. Population genomics of orange roughy in Tasmania. South East Trawl Fishing Industry Association/CSIRO – AUD 132,000.00 (2011-2012).
+
+Gonçalves da Silva A. (co-PI with M Russello). Conservation of Amazonian tapirs. National Geographic Society Conservation Fund – USD 20,000.00 (2007-2009).
+
+Gonçalves da Silva A. (co-PI with M Russello). Conservation of Amazonian tapirs. The Rufford Foundation Small Grants – GBP 5,000.00 (2007-2009).
+
+Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. The Rufford Foundation Small Grants – GBP 5,000.00 (2004-2006).
+
+Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. Disney Worldwide Emergency Conservation Fund – USD 3,500 (2005).
+
+Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. American Society of Mammalogists –USD 1,500 (2003).
+
+Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. The Explorer's Club Exploration Grant – USD 1,000 (2003).
+
+<!-- # References -->
+
+<!-- Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu. -->
