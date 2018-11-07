@@ -13,4 +13,5 @@ Using a template developed by Steven V. Miller: http://svmiller.com/blog/2016/03
 5. `git add .`
 6. `git commit -m "Updated dd Month YYYY"`
 7. `git tag "ddMonYYYY"`
-8, `git push --tags`
+8, `git push`
+9, `git push --tags`
