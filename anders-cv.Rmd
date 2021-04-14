@@ -6,7 +6,7 @@ editor_options:
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: /Users/andersgoncalves/Dropbox/projects/cv/templates/svm-latex-cv.tex
+    template: /Users/andersgs/dev/andersgs/mycv/templates/svm-latex-cv.tex
   html_document:
     df_print: paged
 fontawesome: yes
@@ -15,7 +15,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github: andersgs
-jobtitle: Bioinformatician | Microbiological Diagnostic Lab Public Health Laboratory
+jobtitle: Senior Bioinformatician | Microbiological Diagnostic Lab Public Health Laboratory
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 email: anders.goncalves@unimelb.edu.au
@@ -29,7 +29,11 @@ urlcolor: blue
 
 *Microbiological Diagnostic Unit Public Health Laboratory, The Univesity of Melbourne*
 
-Bioinformatician \hfill 2015-
+Senior Bioinformatician \hfill 2018-
+
+*Microbiological Diagnostic Unit Public Health Laboratory, The Univesity of Melbourne*
+
+Bioinformatician \hfill 2015-2018
 
 *Ornithology Lab, Monash University*
 
@@ -57,6 +61,8 @@ Postdoctoral Teaching and Research Fellow \hfill 2007-2009
 
 # Service and Leadership
 
+*Leadership* of the AusTrakka Development Team.
+
 *Leadership* of the MDU PHL Bioinformatics Team.
 
 *Leadership* of the national CDGN Bioinformatics Working Group.
@@ -76,11 +82,11 @@ Postdoctoral Teaching and Research Fellow \hfill 2007-2009
 
 ## Journal Articles
 
-```{r, echo=FALSE, results='asis'}
-library(RefManageR)
+```{r, echo=FALSE, message=FALSE, results='asis'}
+suppressPackageStartupMessages(library(RefManageR))
 library(glue)
 bib <- ReadBib("bibfiles/publications.bib")
-for(year in 2018:2008) {
+for(year in 2020:2010) {
   print(glue("### {year}"))
   print(bib[year = glue("{year}")],  .opts = list(bib.style = "authoryear"))
   print(glue(" "))
@@ -111,15 +117,13 @@ print(sort(bib, sorting = 'ydnt', decreasing = T), .opts = list(bib.style = "aut
 
 ## PhD
 
+*Sara Zufan* --- Department of Microbiology and Immunology, The University of Melbourne
+
 *Courtney Lane* --- Department of Microbiology and Immunology, The University of Melbourne
 
-*Andrew Buultjens* --- Department of Microbiology and Immunology, The University of Melbourne
-
-*Lee Peacock* --- School of Biological Sciences, Monash University
+*Andrew Buultjens* --- Department of Microbiology and Immunology, The University of Melbourne [Completed]
 
 ## MSc
-
-*Alistair Edwards* --- Faculty of Science, The University of Melbourne *[Deferred]*
 
 *Andre Tan* --- Faculty of Science, The University of Melbourne [Completed]
 
