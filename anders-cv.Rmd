@@ -27,6 +27,10 @@ urlcolor: blue
 
 # Employment
 
+*BC Centre for Disease Control Public Health Laboratory, BC Centre for Disease Control*
+
+Consultant \hfill 2020-
+
 *Microbiological Diagnostic Unit Public Health Laboratory, The Univesity of Melbourne*
 
 Senior Bioinformatician \hfill 2018-
