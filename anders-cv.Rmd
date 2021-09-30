@@ -90,7 +90,7 @@ Postdoctoral Teaching and Research Fellow \hfill 2007-2009
 suppressPackageStartupMessages(library(RefManageR))
 library(glue)
 bib <- ReadBib("bibfiles/publications.bib")
-for(year in 2020:2010) {
+for(year in 2021:2012) {
   print(glue("### {year}"))
   print(bib[year = glue("{year}")],  .opts = list(bib.style = "authoryear"))
   print(glue(" "))
