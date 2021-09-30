@@ -164,19 +164,29 @@ GEOG 213: Introduction to Environmental Issues (Instructor) – University of Br
 
 # Grants
 
-Gonçalves da Silva A. Population genomics of orange roughy in Tasmania. South East Trawl Fishing Industry Association/CSIRO – AUD 132,000.00 (2011-2012).
+Real-time Combined Genomic and Epidemiological Monitoring of COVID-19 in British Columbia. MSFHR - (2020-2022)
 
-Gonçalves da Silva A. (co-PI with M Russello). Conservation of Amazonian tapirs. National Geographic Society Conservation Fund – USD 20,000.00 (2007-2009).
+AusTrakka: real-time pathogen genomics surveillace. Commonwealth Department of Health - AUD $1,160,000 (2020-2022).
 
-Gonçalves da Silva A. (co-PI with M Russello). Conservation of Amazonian tapirs. The Rufford Foundation Small Grants – GBP 5,000.00 (2007-2009).
+AusTrakka: real-time pathogen genomics surveillace. Victorian State Government - AUD 800,000 (2020-2022).
 
-Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. The Rufford Foundation Small Grants – GBP 5,000.00 (2004-2006).
+Tracking COVID-19 using genomics. MRFF - AUD 3,270,000 (2020-2022)
 
-Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. Disney Worldwide Emergency Conservation Fund – USD 3,500 (2005).
+PPHAGE: Precision Public Health in Australia through Integrated Pathogen Genomics - NHMRC AUD 2,000,000 (2020-2025)
 
-Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. American Society of Mammalogists –USD 1,500 (2003).
+Population genomics of orange roughy in Tasmania. South East Trawl Fishing Industry Association/CSIRO – AUD 132,000.00 (2011-2012).
 
-Gonçalves da Silva A. Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. The Explorer's Club Exploration Grant – USD 1,000 (2003).
+Conservation of Amazonian tapirs. National Geographic Society Conservation Fund – USD 20,000.00 (2007-2009).
+
+Conservation of Amazonian tapirs. The Rufford Foundation Small Grants – GBP 5,000.00 (2007-2009).
+
+Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. The Rufford Foundation Small Grants – GBP 5,000.00 (2004-2006).
+
+Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. Disney Worldwide Emergency Conservation Fund – USD 3,500 (2005).
+
+Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. American Society of Mammalogists –USD 1,500 (2003).
+
+Landscape and conservation genetics of mammals in the Brazilian Atlantic Forest. The Explorer's Club Exploration Grant – USD 1,000 (2003).
 
 <!-- # References -->
 
