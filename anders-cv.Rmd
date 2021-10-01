@@ -15,7 +15,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 github: andersgs
-jobtitle: Senior Bioinformatician | Microbiological Diagnostic Lab Public Health Laboratory
+jobtitle: Senior Academic Research Fellow | Department of Microbiology and Immunology
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 email: anders.goncalves@unimelb.edu.au
@@ -29,41 +29,45 @@ urlcolor: blue
 
 *BC Centre for Disease Control Public Health Laboratory, BC Centre for Disease Control*
 
-Consultant \hfill 2020-
+&nbsp;&nbsp;&nbsp;&nbsp;Consultant \hfill 2020-
 
-*Microbiological Diagnostic Unit Public Health Laboratory, The Univesity of Melbourne*
+*Department of Microbiology and Immunology, The University of Melbourne*
 
-Senior Bioinformatician \hfill 2018-
+&nbsp;&nbsp;&nbsp;&nbsp;Senior Academic Research Fellow in Public Health Bioinformatics \hfill 2018-
 
-*Microbiological Diagnostic Unit Public Health Laboratory, The Univesity of Melbourne*
+*Department of Microbiology and Immunology, The University of Melbourne*
 
-Bioinformatician \hfill 2015-2018
+&nbsp;&nbsp;&nbsp;&nbsp;Academic Research Fellow in Public Health Bioinformatics \hfill 2015-2018
 
 *Ornithology Lab, Monash University*
 
-Postdoctoral Researcher \hfill 2012-2015
+&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Researcher \hfill 2012-2015
 
 *CSIRO Marine and Atmospheric Research*
 
-Postdoctoral Fellow \hfill 2009-2012
+&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow \hfill 2009-2012
 
 *Ecological and Conservation Genomics Lab, University of British Columbia*
 
-Postdoctoral Teaching and Research Fellow \hfill 2007-2009
+&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Teaching and Research Fellow \hfill 2007-2009
 
 
 # Education
 
-*Columbia University*, PhD Ecology and Evolutionary Biology \hfill 2007
+*Columbia University - USA*, PhD Ecology and Evolutionary Biology \hfill 2007
 
-*Columbia University*, MSc Ecology and Evolutionary Biology \hfill 2004
+*Columbia University - USA*, MSc Ecology and Evolutionary Biology \hfill 2004
 
-*Columbia University*, MA Conservation Biology \hfill 2003
+*Columbia University - USA*, MA Conservation Biology \hfill 2003
 
-*Universidade Estadual de Campinas*, BSc Biology \hfill 2000
+*Universidade Estadual de Campinas - Brazil*, BSc Biology \hfill 2000
 
 
 # Service and Leadership
+
+*Leadership* of Public Health Alliance for Genomic Epidemiology (PHAGE)
+
+*Leadership* in PulseNet International (liaison for Australia)
 
 *Leadership* of the AusTrakka Development Team.
 
